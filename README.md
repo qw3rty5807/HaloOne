@@ -14,7 +14,7 @@ Halo One is a very compact and lightweight DIY PCVR headset, that features:
 
 ## Bill Of Materials
 - 1x RPI Pico 2,
-- 1x LSM6DS5 board,
+- 1x LSM6DS3 board,
 - 2x Fresnel Lens, d40mm, fl28mm,
 - 2x 1600x1600 90hz display,
 - 1x Display Driver Board,
