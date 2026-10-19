@@ -5,7 +5,6 @@ Copyright (c) 2026 qw3rty5807
 The Halo One project (including all original 3D models, modified 3D files, 
 source code, firmware, schematics, and documentation) is made available for 
 PERSONAL, EDUCATIONAL, AND NON-COMMERCIAL USE ONLY.
-
 Commercial use, mass production for sale, commercial distribution, or incorporation 
 into commercial products/services is STRICTLY PROHIBITED without prior explicit 
 written permission from the author.
