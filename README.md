@@ -1,4 +1,4 @@
-# HaloOne
+# Halo One
 Halo One is a very compact and lightweight DIY PCVR headset, that features:
 - Dual 1600x1600 90hz LCD panels,
 - 6DoF using PS3 Move cameras,
