@@ -12,8 +12,7 @@ Halo One is a very compact and lightweight DIY PCVR headset, that features:
 > in the near future i will change the optics so it wil be better.
 > So if you want high FOV from my headset, please wait for the update.
 
-> [!NOTE]
-> ### Bill Of Materials:
+# Bill Of Materials
 - 1x RPI Pico 2,
 - 1x LSM6DS5 board,
 - 2x Fresnel Lens, d40mm, fl28mm,
