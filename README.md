@@ -7,6 +7,11 @@ Halo One is a very compact and lightweight DIY PCVR headset, that features:
 - Based on Raspberry Pi Pico 2 microcontroller and LSM6DS3 IMU board,
 - Comfortable halo strap.
 
+> [!TIP]
+> Currently this headset will have pretty low FOV,
+> in the near future i will change the optics so it wil be better.
+> So if you want high FOV from my headset, please wait for the update.
+
 > [!NOTE]
 > ### Bill Of Materials:
 - 1x RPI Pico 2,
