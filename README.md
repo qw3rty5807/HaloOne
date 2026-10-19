@@ -23,6 +23,13 @@ Halo One is a very compact and lightweight DIY PCVR headset, that features:
 - Double sided tape,
 - Quest 2 stock head strap, without top part.
 
+## Third-Party Components and Credits
+
+This project incorporates and builds upon open-source assets created by the 3D printing community:
+
+* **Halo Mount:** Based on Bigscreen Beyond 2 halo mount by **EloyCabañero** ([Printables](https://www.printables.com/model/1602107-halo-mount/collections)) — *Public Domain / CC0*
+* **Strap Adapters:** Modified Quest 2 adapters by **Val's Virtuals**, originally based on *Bigscreen Beyond strap Hook* by **Val's Virtuals** ([Printables](https://www.printables.com/model/585216-bigscreen-beyond-strap-hook)) — *CC BY 4.0*
+* 
 
 
 
