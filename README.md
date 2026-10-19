@@ -8,7 +8,8 @@ Halo One is a very compact and lightweight DIY PCVR headset, that features:
 - Comfortable halo strap.
 
 > [!NOTE]
-> I am working right now on the software for > headset, The Halo Launcher that installs > > every requiered for headset to work with pc > file automaticly, so you dont need to worry > about software.
+> I am working right now on the software for
+  headset, The Halo Launcher that installs      every requiered for headset to work with pc   file automaticly, so you dont need to worry   about software instalation.
 
 > [!TIP]
 > Currently this headset will have pretty low FOV,
