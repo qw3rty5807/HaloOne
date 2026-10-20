@@ -2,7 +2,7 @@
 
 Halo One is a very compact and lightweight DIY PCVR headset that features:
 - Dual 1600x1600 90Hz LCD panels,
-- 6DoF tracking using PS3 Move cameras,
+- 6DoF tracking using PS3 Move cameras(coming soon),
 - Fresnel lenses,
 - Compatibility with SteamVR,
 - Raspberry Pi Pico 2 microcontroller and LSM6DS3 IMU board,
