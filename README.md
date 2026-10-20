@@ -29,6 +29,10 @@ Only assembled casing, for illustration purposes.
 > [!TIP]
 > Currently, this headset setup has a relatively narrow FOV. I am actively working on updated optics for a future revision. If you prefer a wide FOV, please stay tuned for future updates!
 
+>[!WARNING]
+>This project is at early development state,
+>expect bugs!
+
 ## Bill Of Materials
 
 - 1x Raspberry Pi Pico 2
