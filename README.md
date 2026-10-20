@@ -15,6 +15,7 @@ Only assembled casing, for illustration purposes.
 > [!NOTE]
 > ### Software Configuration
 > To use Halo One, you need to install the latest Halo Launcher release and open it. The launcher will automatically install and configure everything on your PC.
+> Currently the launcher works best on arch based linux distros. 
 > 
 > To configure the microcontroller board:
 > 1. Download the `Pico2_Firmware` folder from this repository.
