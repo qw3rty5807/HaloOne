@@ -1,8 +1,5 @@
 # Halo One
 
-![EN](Images/UKFlag.webp)](README.md)
-![PL](Images/PolandFlag.jpg)](README_PL.md)
-
 Halo One is a very compact and lightweight DIY PCVR headset that features:
 - Dual 1600x1600 90Hz LCD panels,
 - 6DoF tracking using PS3 Move cameras(coming soon),
@@ -20,7 +17,7 @@ Only assembled casing, for illustration purposes.
 > To use Halo One, you need to install the latest Halo Launcher release and open it. The launcher will automatically install and configure everything on your PC.
 > 
 > To configure the microcontroller board:
-> 1. Download the `Pico2_Firmware` folder/file from this repository.
+> 1. Download the `Pico2_Firmware` folder from this repository.
 > 2. Install the latest version of **Arduino IDE**.
 > 3. Open Arduino IDE, go to **Boards Manager**, and install the **"Raspberry Pi Pico/RP2040/RP2350"** board package by Earle F. Philhower, III.
 > 4. Go to **Library Manager**, search for **FastIMU** by LiquidCGS, and install it.
