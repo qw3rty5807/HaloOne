@@ -12,7 +12,18 @@ Halo One is a very compact and lightweight DIY PCVR headset that features:
 Only assembled casing, for illustration purposes.
 
 > [!NOTE]
-> I am currently working on the software for the headset - **The Halo Launcher**. It automatically installs every required software component to get the headset working with a PC, so you don't need to worry about manual installation.
+> ### Software Configuration
+> To use Halo One, you need to install the latest Halo Launcher release and open it. The launcher will automatically install and configure everything on your PC.
+> 
+> To configure the microcontroller board:
+> 1. Download the `Pico2_Firmware` folder/file from this repository.
+> 2. Install the latest version of **Arduino IDE**.
+> 3. Open Arduino IDE, go to **Boards Manager**, and install the **"Raspberry Pi Pico/RP2040/RP2350"** board package by Earle F. Philhower, III.
+> 4. Go to **Library Manager**, search for **FastIMU** by LiquidCGS, and install it.
+> 5. **Important (Entering Bootloader Mode):** Press and hold the physical **BOOTSEL** button on your Raspberry Pi Pico 2, and while holding it, plug the Pico 2 into your computer via USB. Then release the button.
+> 6. Open the `Pico2_Firmware.ino` file in Arduino IDE (**File >> Open** or `CTRL+O`).
+> 7. Select **Raspberry Pi Pico 2** as your target board in the top-left menu (or via Tools -> Board).
+> 8. Click the **Upload** button. Everything should compile and flash successfully!
 
 > [!TIP]
 > Currently, this headset setup has a relatively narrow FOV. I am actively working on updated optics for a future revision. If you prefer a wide FOV, please stay tuned for future updates!
