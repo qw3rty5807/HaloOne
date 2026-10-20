@@ -6,7 +6,8 @@ Halo One is a very compact and lightweight DIY PCVR headset that features:
 - Fresnel lenses,
 - Compatibility with SteamVR,
 - Raspberry Pi Pico 2 microcontroller and LSM6DS3 IMU board,
-- Comfortable halo strap.
+- Comfortable halo strap,
+- Very easy and user friendly software setup.
 
 ![1](Images/headset1.jpg)
 Only assembled casing, for illustration purposes.
