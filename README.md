@@ -1,5 +1,8 @@
 # Halo One
 
+![EN](Images/UKFlag.webp)](README.md)
+![PL](Images/PolandFlag.jpg)](README_PL.md)
+
 Halo One is a very compact and lightweight DIY PCVR headset that features:
 - Dual 1600x1600 90Hz LCD panels,
 - 6DoF tracking using PS3 Move cameras(coming soon),
