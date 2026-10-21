@@ -6,6 +6,7 @@ Unlike other diy VR projects, i created launcher that installs every needed thin
 so you dont need to worry about complicated software setup. Headset uses RPI Pico 2 microcontroller,
 and LSM6DS3 IMU board, it should provide fine 3DoF tracking. I am planning to make this headset 6DoF using 
 PS3 Move cameras, but for now its 3DoF. Headset is pretty lightweight, around 150g without head strap.
+Headset is designed for ipd 58, and it does not have ipd regulation yet.
 Halo One has halo strap, so it will be comfortable, i think. 
 
 ### Key features:
@@ -17,6 +18,10 @@ Halo One has halo strap, so it will be comfortable, i think.
 
 If you have any questions, suggestions etc, feel free to ask.
 
+**IMPORTANT:** Launcher is programmed to use displays listed in BOM, if you use other ones, it will probably dont work
+out of the box, and you will need to modify code yourself.
+
+
 
 <img src="Images/headset1.jpg" width="600" alt="Halo One Headset">
 Only assembled casing, for illustration purposes.
@@ -24,7 +29,7 @@ Only assembled casing, for illustration purposes.
 > [!NOTE]
 > ### Software Configuration
 > To use Halo One, you need to install the latest Halo Launcher release and open it. The launcher will automatically install and configure everything on your PC.
-> Currently the launcher works best on arch based linux distros(but it should work on Windows and non-arch based distros). 
+> Currently the launcher works best on arch based linux distros(but it should work on Windows and non-arch based distros).
 > 
 > To configure the microcontroller board:
 > 1. Download the `Pico2_Firmware` folder from this repository.
