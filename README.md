@@ -1,21 +1,29 @@
 # Halo One
 
-Halo One is a very compact and lightweight DIY PCVR headset that features:
-- Dual 1600x1600 90Hz LCD panels,
-- 6DoF tracking using PS3 Move cameras(coming soon),
-- Fresnel lenses,
-- Compatibility with SteamVR,
-- Raspberry Pi Pico 2 microcontroller and LSM6DS3 IMU board,
-- Comfortable halo strap,
-- Very easy and user friendly software setup.
+Halo One is a very compact and lightweight DIY PCVR headset.
+It can work with SteamVR, so you can play games like Half Life Alyx.
+Unlike other diy VR projects, i created launcher that installs every needed thing on your pc,
+so you dont need to worry about complicated software setup. Headset uses RPI Pico 2 microcontroller,
+and LSM6DS3 IMU board, it should provide fine 3DoF tracking. I am planning to make this headset 6DoF using 
+PS3 Move cameras, but for now its 3DoF. Headset is pretty lightweight, around 150g without head strap.
+Halo One has halo strap, so it will be comfortable, i think. 
+###Key features:
+- Dual 1600x1600 90hz lcd panels, 1078 PPI
+- Easy and straight forward software configuration
+- Stable 3DoF tracking using LSM6DS3 IMU board
+- Comfortable halo strap
+- ~150g without head strap, ~225g with head strap.
 
-![1](Images/headset1.jpg)
+If you have any questions, suggestions etc, feel free to ask.
+
+
+<img src="Images/headset1.jpg" width="600" alt="Halo One Headset">
 Only assembled casing, for illustration purposes.
 
 > [!NOTE]
 > ### Software Configuration
 > To use Halo One, you need to install the latest Halo Launcher release and open it. The launcher will automatically install and configure everything on your PC.
-> Currently the launcher works best on arch based linux distros. 
+> Currently the launcher works best on arch based linux distros(but it should work on Windows and non-arch based distros). 
 > 
 > To configure the microcontroller board:
 > 1. Download the `Pico2_Firmware` folder from this repository.
@@ -28,7 +36,7 @@ Only assembled casing, for illustration purposes.
 > 8. Click the **Upload** button. Everything should compile and flash successfully!
 
 > [!TIP]
-> Currently, this headset setup has a relatively narrow FOV. I am actively working on updated optics for a future revision. If you prefer a wide FOV, please stay tuned for future updates!
+> Currently, this headset setup has a relatively narrow FOV. I am planning to design updated optics for a future revision. If you prefer a wide FOV, please stay tuned for future updates!
 
 >[!WARNING]
 >This project is at early development state,
@@ -36,15 +44,17 @@ Only assembled casing, for illustration purposes.
 
 ## Bill Of Materials
 
-- 1x Raspberry Pi Pico 2
-- 1x LSM6DS3 IMU board
-- 2x Fresnel Lenses (d40mm, fl28mm)
-- 2x 1600x1600 @ 90Hz Displays
-- 1x Display Driver Board
-- 25x M2 (6mm) self-tapping screws
-- All 3D printed parts (available in `/3D Models`)
-- Double-sided tape
-- Stock Meta Quest 2 head strap (without the top strap)
+| Part                                 | Quantity | Price per 1 item  |
+| ------------------------------------ | -------- | ----------------- |
+| RPI Pico 2                           |    1     | ~$8               |
+| LSM6DS3 board                        |    1     | ~$2.50            |
+| Fresnel lenses d40mm fl28mm          |    2     | ~$1.30            |             
+| 1600x1600 LCD 2.1" with driver board |    2     | ~$200             |
+| M2 self tapping screw, 6mm long      |    25    | ~$1.50            |
+| 3D printed parts                     |    all   |   N/A             |
+| Double-sided tape                    |    1     | ~$2               |
+| Stock Quest 2 head strap             |    1     | ~$8               |
+### Total: ~$224.60   
 
 ## Third-Party Components and Credits
 
