@@ -7,6 +7,7 @@ so you dont need to worry about complicated software setup. Headset uses RPI Pic
 and LSM6DS3 IMU board, it should provide fine 3DoF tracking. I am planning to make this headset 6DoF using 
 PS3 Move cameras, but for now its 3DoF. Headset is pretty lightweight, around 150g without head strap.
 Halo One has halo strap, so it will be comfortable, i think. 
+
 ###Key features:
 - Dual 1600x1600 90hz lcd panels, 1078 PPI
 - Easy and straight forward software configuration
