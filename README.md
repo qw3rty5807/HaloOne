@@ -5,7 +5,7 @@ It can work with SteamVR, so you can play games like Half Life Alyx.
 Unlike other diy VR projects, i created launcher that installs every needed thing on your pc,
 so you dont need to worry about complicated software setup. Headset uses RPI Pico 2 microcontroller,
 and LSM6DS3 IMU board, it should provide fine 3DoF tracking. I am planning to make this headset 6DoF using 
-PS3 Move cameras, but for now its 3DoF. Headset is pretty lightweight, around 150g without head strap.
+PS3 Move cameras, but for now its 3DoF (if you decide to build it now, you will can upgrade it later to 6DoF without reprinting parts). Headset is pretty lightweight, around 150g without head strap.
 Headset is designed for ipd 58, and it does not have ipd regulation yet.
 Halo One has halo strap, so it will be comfortable, i think. 
 
