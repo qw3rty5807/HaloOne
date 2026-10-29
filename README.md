@@ -22,10 +22,6 @@ If you have any questions, suggestions etc, feel free to ask.
 out of the box, and you will need to modify code yourself.
 
 
-
-<img src="Images/headset1.jpg" width="600" alt="Halo One Headset">
-Only assembled casing, for illustration purposes.
-
 > [!NOTE]
 > ### Software Configuration
 > To use Halo One, you need to install the latest Halo Launcher release and open it. The launcher will automatically install and configure everything on your PC.
@@ -61,6 +57,25 @@ Only assembled casing, for illustration purposes.
 | Double-sided tape                    |    1     | ~$2               |
 | Stock Quest 2 head strap             |    1     | ~$8               |
 ### Total: ~$224.60   
+
+>[!NOTE]
+>Images:
+
+<img src="Images/headset1.jpg" width="600" alt="Halo One Headset">
+<img src="Images/PXL_20261029_180433657.jpg" width="600" alt="Halo One Headset">
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Third-Party Components and Credits
 
