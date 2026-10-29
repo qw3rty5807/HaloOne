@@ -58,8 +58,7 @@ out of the box, and you will need to modify code yourself.
 | Stock Quest 2 head strap             |    1     | ~$8               |
 ### Total: ~$224.60   
 
->[!NOTE]
->Images:
+>Some images
 
 <img src="Images/headset1.jpg" width="600" alt="Halo One Headset">
 <img src="Images/PXL_20261029_180433657.jpg" width="600" alt="Halo One Headset">
