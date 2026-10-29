@@ -63,7 +63,7 @@ out of the box, and you will need to modify code yourself.
 ## Some images
 > The front plates in those images are different, because white one is first iteration of it, the translucent is newer, but its uglier in my opinion.
 
-<img src="Images/PXL_20261029_180433657.jpg" width="300" alt="Halo One Headset">  <img src="Images/headset1.jpg" width="600" alt="Halo One Headset">
+<img src="Images/PXL_20261029_180433657.jpg" width="300" alt="Halo One Headset">  <img src="Images/headset1.jpg" width="533.5" alt="Halo One Headset">
 
 
 
